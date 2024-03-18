@@ -1,0 +1,12 @@
+node_modules/
+
+*.tmp
+
+# Ignore all files in a directory named 'build'
+/build/
+
+# Ignore a specific file
+secret.txt
+
+# Ignore all files with a specific name in any directory
+**/logs/*.log
